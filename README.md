@@ -1,4 +1,6 @@
 # 🌿 Plant Catalog
+![Plant Catalog Banner](https://i.pinimg.com/originals/f0/8c/8f/f08c8f4e918e8caf5fa62bf201d6390f.jpg)
+
 Welcome to the **Plant Catalog**! This project is an Angular application that showcases a beautiful catalog of plants. Each plant in the catalog is presented with an image and description. Users can click on a plant to view more details about it.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.3.
@@ -46,7 +48,7 @@ To run this project locally, follow these steps:
 - **public/assets**: Contains images of the plants.
 
 
-Details Page
+##Details Page
  
 ## Development server
 
@@ -73,8 +75,8 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
 
 
-Contributing
+## Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, please create an issue or submit a pull request.
 
-Feel free to customize this README to better suit your project's needs and style!
+## Feel free to customize this README to better suit your project's needs and style!
 
