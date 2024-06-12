@@ -1,0 +1,10 @@
+<div class="plant-details" *ngIf="plant">
+    <h1>{{ plant.name }}</h1>
+    <img [src]="plant.imageUrl" alt="{{ plant.name }}">
+    <p>{{ plant.description }}</p>
+    <p>{{ plant.details }}</p>
+  </div>
+  <div class="plant-details" *ngIf="!plant">
+    <p>Plant not found.</p>
+  </div>
+  

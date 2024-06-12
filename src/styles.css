@@ -1,1 +1,41 @@
 /* You can add global styles to this file, and also import other style files */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f5f5; /* Мятный цвет */
+    color: #333; /* Тёмно-серый цвет для текста */
+  }
+  
+  .plant-list {
+    text-align: center;
+  }
+  
+  .plant-item {
+    display: inline-block;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+    width: 200px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .plant-item img {
+    width: 100%;
+    border-radius: 10px 10px 0 0;
+  }
+  
+  .plant-item h2 {
+    color: #3b7d3b; 
+  }
+  
+  .plant-item a {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 5px 10px;
+    background-color: #3b7d3b; 
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  

@@ -1,0 +1,10 @@
+<div class="plant-list">
+    <h1>Plant Catalog</h1>
+    <div class="plant-list-grid">
+      <div *ngFor="let plant of plants" class="plant-item">
+        <img [src]="plant.imageUrl" alt="{{ plant.name }}">
+        <a [routerLink]="['/details', plant.id]">View Details</a>
+      </div>
+    </div>
+  </div>
+  

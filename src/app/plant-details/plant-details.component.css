@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+.plant-details {
+  text-align: center;
+  padding: 20px;
+}
+
+.plant-details h1 {
+  font-family: 'Pacifico', cursive; /* Handwritten font */
+  font-size: 50px; /*Header size */
+  color: #3b7d3b;
+  margin-bottom: 20px;
+}
+
+.plant-details img {
+  width: 100%;
+  max-width: 400px;
+  border-radius: 10px;
+}
+
+.plant-details p {
+  font-family: 'Pacifico', cursive; /*font */
+  font-size: 30px; /* text siwe */
+  color: #333; /* text */
+  margin-top: 10px;
+  font-weight: 300; /* */
+}
