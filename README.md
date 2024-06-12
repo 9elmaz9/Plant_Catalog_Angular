@@ -57,5 +57,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, please create an issue or submit a pull request.
+
 Feel free to customize this README to better suit your project's needs and style!
 
