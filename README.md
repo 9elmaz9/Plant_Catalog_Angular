@@ -22,10 +22,10 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
    git clone https://github.com/9elmaz9/Plant_Catalog_Angular.git
    cd Plant_Catalog_Angular
    
- 2. ** Install dependencies:
+ 2. **Install dependencies**:
     npm install
 
-3. **Run the application:
+3. **Run the application**:
    ng serve --open
 
 
