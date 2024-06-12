@@ -17,6 +17,11 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 - **CSS**: Custom styles for a visually appealing design.
 - **Bootstrap**: For responsive design and layout.
 
+
+## Installation
+
+To run this project locally, follow these steps:
+
 1. **Clone the repository**:
    ```sh
    git clone https://github.com/9elmaz9/Plant_Catalog_Angular.git
@@ -32,13 +37,13 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 
 ##  Project Structure
-- **src/app: Contains the main application code.
-- **plant-list: Component for displaying the list of plants.
-- **plant-details: Component for displaying detailed information about a specific plant.
-- **plant.ts: Model for plant data.
-- **app.routes.ts: Application routes configuration.
-- **app.component.ts: Main application component.
-- **public/assets: Contains images of the plants.
+- **src/app**: Contains the main application code.
+- **plant-list**: Component for displaying the list of plants.
+- **plant-details**: Component for displaying detailed information about a specific plant.
+- **plant.ts**: Model for plant data.
+- **app.routes.ts**: Application routes configuration.
+- **app.component.ts**: Main application component.
+- **public/assets**: Contains images of the plants.
 
 
 Details Page
